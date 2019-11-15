@@ -1,0 +1,37 @@
+.body_background-color{
+    background-color: #e6e4e4;
+
+}
+button{
+    width: 85px;
+    height: 40px;
+}
+.background-img-section_2{
+    background-image: url(../img/Shape_2.png);
+    background-size: 100% 100%;
+}
+.background-img-section_1{
+    background-image: url(../img/Shape_1.png);
+    background-size: 100% 100%;
+}
+.background-img-section_3{
+    background-image: url(../img/Shape_1_copy.png);
+    background-size: 100% 100%;
+}
+.line_margin{
+    margin-bottom: -55px;
+}
+footer{
+    font-family: 'Roboto', sans-serif;
+    color: #7b7b7b;
+}
+header h4{
+
+    color: #7b7b7b;
+}
+header{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    color: #9d9da7;
+}
